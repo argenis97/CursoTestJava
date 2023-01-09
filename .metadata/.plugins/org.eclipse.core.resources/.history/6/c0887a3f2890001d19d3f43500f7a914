@@ -1,0 +1,10 @@
+package dev.arsystem.util;
+
+import dev.arsystem.enums.SecurityLevel;
+
+public class PasswordUtil {
+	
+	public static SecurityLevel access(String password) {
+		return SecurityLevel.LOW;
+	}
+}

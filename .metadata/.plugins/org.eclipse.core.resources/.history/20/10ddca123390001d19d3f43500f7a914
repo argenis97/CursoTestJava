@@ -1,0 +1,25 @@
+package dev.arsystem.util;
+
+import dev.arsystem.enums.SecurityLevel;
+
+public class PasswordUtil {
+	
+	public static SecurityLevel access(String password) {
+		if (password.length() < 8
+				|| password.matches("[a-zA-Z]+")
+				|| password.matches("[0-9]+"))
+			return SecurityLevel.LOW;
+		
+		if (password.matches(MEDIUM_PATTER))
+			return SecurityLevel.MEDIUM;
+		
+		if (password.matches(STRONG_PATTERN))
+			return SecurityLevel.HIGHT;
+		
+		return SecurityLevel.LOW;
+	}
+	
+	public static String MEDIUM_PATTER = "[A-Za-z0-9]+";
+	
+	public static String STRONG_PATTERN = "[A-Za-z0-9`~!@#$%^&*()\\-_=+{}\\[\\]\\\\;:'\",<.>/?]+";
+}

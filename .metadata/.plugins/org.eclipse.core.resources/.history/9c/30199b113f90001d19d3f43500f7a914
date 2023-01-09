@@ -1,0 +1,7 @@
+package dev.arsystem.player;
+
+public class Player {
+	public boolean play() {
+		return false;
+	}
+}

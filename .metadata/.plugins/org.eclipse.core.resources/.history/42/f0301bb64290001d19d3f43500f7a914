@@ -1,0 +1,21 @@
+package dev.arsystem.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+import org.mockito.Mockito;
+
+import dev.arsystem.player.Dice;
+import dev.arsystem.player.Player;
+
+public class PlayerTest {
+
+	@Test
+	public void loose_when_minor_number() {
+		Dice dice = Mockito.mock(Dice.class);
+		Mockito.when(dice.roll()).then(2);
+		Player player = new Player(dice, 2);
+		
+		assertTrue(player.play());
+	}
+}

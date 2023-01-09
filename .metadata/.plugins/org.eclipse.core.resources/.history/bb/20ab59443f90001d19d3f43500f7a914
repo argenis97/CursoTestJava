@@ -1,0 +1,14 @@
+package dev.arsystem.player;
+
+public class Dice {
+	
+	public Dice(int sides) {
+		this.sides = sides;
+	}
+	
+	public int roll() {
+		return Math.random() * sides;
+	}
+	
+	private int sides;
+}

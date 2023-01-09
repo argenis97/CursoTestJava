@@ -1,0 +1,5 @@
+package dev.arsystem.payment;
+
+public interface PaymentGateway {
+	
+}

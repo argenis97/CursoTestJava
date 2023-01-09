@@ -1,0 +1,1153 @@
+2023-01-08 00:44:26,557 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-08 01:08:54,261 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /opt/Development2/Cursos/CursoTestJava/JavaTest/pom.xml
+2023-01-08 01:08:56,587 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dev.arsystem:JavaTest:0.0.1-SNAPSHOT @ /opt/Development2/Cursos/CursoTestJava/JavaTest/pom.xml.
+2023-01-08 01:08:57,899 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest/src/main/java
+2023-01-08 01:08:57,905 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest/src/test/java
+2023-01-08 01:08:58,125 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-01-08 01:09:00,090 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:09:00,091 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:09:00,098 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:09:00,098 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:10:36,958 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2023-01-08 01:10:41,007 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2023-01-08 01:10:43,566 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+2023-01-08 01:10:45,173 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+2023-01-08 01:10:45,743 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+2023-01-08 01:10:48,463 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+2023-01-08 01:10:48,967 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.pom
+2023-01-08 01:10:51,307 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.pom
+2023-01-08 01:10:51,366 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.2/plexus-compiler-2.2.pom
+2023-01-08 01:10:52,370 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.2/plexus-compiler-2.2.pom
+2023-01-08 01:10:53,267 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.pom
+2023-01-08 01:10:54,337 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.pom
+2023-01-08 01:10:54,489 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.pom
+2023-01-08 01:10:54,585 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.pom
+2023-01-08 01:10:54,635 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.2/plexus-compilers-2.2.pom
+2023-01-08 01:10:54,682 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.2/plexus-compilers-2.2.pom
+2023-01-08 01:10:54,825 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.jar
+2023-01-08 01:10:55,354 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.jar
+2023-01-08 01:10:55,356 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.jar
+2023-01-08 01:10:55,356 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.jar
+2023-01-08 01:10:55,357 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.jar
+2023-01-08 01:10:55,814 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.jar
+2023-01-08 01:10:55,814 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.jar
+2023-01-08 01:10:55,838 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.jar
+2023-01-08 01:10:55,838 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.jar
+2023-01-08 01:10:55,873 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.jar
+2023-01-08 01:10:55,912 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.jar
+2023-01-08 01:10:55,913 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.jar
+2023-01-08 01:10:55,945 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2023-01-08 01:10:55,986 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.jar
+2023-01-08 01:10:55,989 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.2/junit-3.8.2.jar
+2023-01-08 01:10:56,041 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.jar
+2023-01-08 01:10:56,041 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.jar
+2023-01-08 01:10:56,074 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.jar
+2023-01-08 01:10:56,113 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.2/junit-3.8.2.jar
+2023-01-08 01:10:56,152 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2023-01-08 01:10:56,261 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: dev.arsystem:JavaTest2:0.0.1-SNAPSHOT @ /opt/Development2/Cursos/CursoTestJava/JavaTest2/pom.xml.
+2023-01-08 01:10:56,487 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2023-01-08 01:10:56,565 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2023-01-08 01:10:57,388 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.pom
+2023-01-08 01:10:57,455 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.pom
+2023-01-08 01:10:57,545 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.jar
+2023-01-08 01:10:57,593 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.jar
+2023-01-08 01:10:57,682 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest2/src/main/java
+2023-01-08 01:10:57,684 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaTest2/src/main/resources
+2023-01-08 01:10:57,686 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest2/src/test/java
+2023-01-08 01:10:57,687 [Worker-23: Creating project "JavaTest2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaTest2/src/test/resources
+2023-01-08 01:10:59,839 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:10:59,840 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:10:59,844 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:10:59,845 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:10:59,939 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-08 01:10:59,953 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-08 01:10:59,960 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-08 01:10:59,962 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-08 01:11:01,475 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-08 01:11:01,486 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-08 01:11:01,494 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-08 01:11:01,496 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-08 01:27:06,602 [Worker-30: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /opt/Development2/Cursos/CursoTestJava/JavaTest2/pom.xml
+2023-01-08 01:27:06,710 [Worker-30: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dev.arsytem:JavaTest2:0.0.1-SNAPSHOT @ /opt/Development2/Cursos/CursoTestJava/JavaTest2/pom.xml.
+2023-01-08 01:27:06,774 [Worker-30: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest2/src/main/java
+2023-01-08 01:27:06,778 [Worker-30: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest2/src/test/java
+2023-01-08 01:27:06,818 [Worker-30: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-01-08 01:27:07,122 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:27:07,122 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest2/src/main/resources
+2023-01-08 01:27:07,127 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:27:07,128 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest2/src/test/resources
+2023-01-08 01:27:49,916 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-08 01:27:49,975 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dev.arsytem:JavaTest2:0.0.1-SNAPSHOT @ /opt/Development2/Cursos/CursoTestJava/JavaTest2/pom.xml.
+2023-01-08 01:27:50,068 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest2/src/main/java
+2023-01-08 01:27:50,069 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest2/src/test/java
+2023-01-08 01:27:50,168 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-01-08 01:27:50,422 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:27:50,423 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest2/src/main/resources
+2023-01-08 01:27:50,441 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:27:50,442 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest2/src/test/resources
+2023-01-08 01:27:55,008 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:27:55,009 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:27:55,011 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:27:55,012 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:27:55,022 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:27:55,022 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest2/src/main/resources
+2023-01-08 01:27:55,026 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:27:55,027 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest2/src/test/resources
+2023-01-08 01:28:39,508 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-08 01:29:33,490 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dev.arsystem:JavaTest:0.0.1-SNAPSHOT @ /opt/Development2/Cursos/CursoTestJava/JavaTest/pom.xml.
+2023-01-08 01:29:34,062 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:29:34,063 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:29:34,071 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:29:34,071 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:29:38,416 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-08 01:29:39,019 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dev.arsystem:JavaTest:0.0.1-SNAPSHOT @ /opt/Development2/Cursos/CursoTestJava/JavaTest/pom.xml.
+2023-01-08 01:29:39,326 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest/src/main/java
+2023-01-08 01:29:39,329 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest/src/test/java
+2023-01-08 01:29:39,655 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-01-08 01:29:40,127 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:29:40,128 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:29:40,134 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:29:40,134 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:29:56,799 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:29:56,799 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:29:56,804 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:29:56,806 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:30:24,584 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:30:24,585 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:30:24,589 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:30:24,589 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:30:39,734 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:30:39,735 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:30:39,738 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:30:39,739 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:30:44,313 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:30:44,313 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:30:44,316 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:30:44,317 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:31:11,279 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:31:11,280 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:31:11,285 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:31:11,285 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:32:44,953 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:32:44,953 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:32:44,957 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:32:44,958 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:32:54,881 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:32:54,882 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:32:54,888 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:32:54,888 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:37:18,767 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-08 01:45:22,973 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:45:22,975 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:45:22,982 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:45:22,983 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:46:20,934 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:46:20,935 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:46:20,940 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:46:20,941 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:49:10,343 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:49:10,343 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:49:10,349 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:49:10,350 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:49:15,017 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:49:15,017 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:49:15,021 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:49:15,021 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:49:42,283 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:49:42,284 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:49:42,287 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:49:42,287 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:50:32,279 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:50:32,280 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:50:32,284 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:50:32,285 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:50:45,589 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:50:45,590 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:50:45,593 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:50:45,593 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 01:50:55,332 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:50:55,332 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 01:50:55,339 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 01:50:55,340 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 21:11:23,537 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 21:11:23,539 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 21:11:23,541 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 21:11:23,541 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 21:11:46,633 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 21:11:46,633 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 21:11:46,635 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 21:11:46,635 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:32:01,666 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:32:01,666 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:32:01,668 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:32:01,668 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:32:11,010 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:32:11,010 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:32:11,012 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:32:11,012 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:34:09,043 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:34:09,044 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:34:09,046 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:34:09,046 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:34:32,894 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:34:32,895 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:34:32,898 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:34:32,898 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:36:19,620 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:36:19,620 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:36:19,622 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:36:19,623 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:36:42,028 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:36:42,028 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:36:42,031 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:36:42,032 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:36:46,786 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:36:46,786 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:36:46,789 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:36:46,789 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:38:15,862 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:38:15,862 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:38:15,865 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:38:15,865 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:38:40,730 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:38:40,730 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:38:40,732 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:38:40,733 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:38:59,174 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:38:59,174 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:38:59,176 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:38:59,176 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:39:03,416 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:39:03,416 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:39:03,418 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:39:03,418 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:39:40,902 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:39:40,903 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:39:40,904 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:39:40,904 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:39:55,424 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:39:55,424 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:39:55,426 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:39:55,426 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:40:28,873 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:40:28,874 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:40:28,875 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:40:28,875 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:43:26,369 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:43:26,369 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:43:26,370 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:43:26,371 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-08 22:43:53,385 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:43:53,386 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-08 22:43:53,388 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-08 22:43:53,388 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 07:48:54,804 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 07:48:54,804 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 07:48:54,806 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 07:48:54,806 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 09:32:24,272 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:32:24,273 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 09:32:24,274 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:32:24,275 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 09:32:27,477 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:32:27,477 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 09:32:27,479 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:32:27,479 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 09:34:12,749 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:34:12,749 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 09:34:12,752 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:34:12,752 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 09:34:47,572 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:34:47,572 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 09:34:47,574 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:34:47,574 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 09:34:58,053 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:34:58,054 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 09:34:58,056 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:34:58,056 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 09:35:37,522 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:35:37,522 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 09:35:37,524 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:35:37,524 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 09:36:11,845 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:36:11,845 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 09:36:11,847 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:36:11,847 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 09:36:15,516 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:36:15,517 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 09:36:15,520 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:36:15,520 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 09:36:16,711 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:36:16,711 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 09:36:16,713 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:36:16,713 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 09:36:18,171 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:36:18,171 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 09:36:18,172 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 09:36:18,172 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:05:32,990 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:05:32,990 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:05:32,991 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:05:32,992 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:06:03,878 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:06:03,878 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:06:03,880 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:06:03,880 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:06:31,686 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:06:31,686 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:06:31,688 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:06:31,688 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:07:06,432 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:07:06,432 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:07:06,434 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:07:06,434 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:10:32,603 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:10:32,603 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:10:32,604 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:10:32,604 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:10:39,305 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:10:39,305 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:10:39,307 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:10:39,308 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:10:40,746 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:10:40,746 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:10:40,748 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:10:40,748 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:11:22,582 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:11:22,582 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:11:22,585 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:11:22,585 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:11:27,625 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:11:27,625 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:11:27,627 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:11:27,627 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:11:30,132 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:11:30,132 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:11:30,134 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:11:30,134 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:11:31,728 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:11:31,729 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:11:31,731 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:11:31,731 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:11:48,358 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:11:48,358 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:11:48,360 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:11:48,360 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:12:46,495 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:12:46,496 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:12:46,497 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:12:46,497 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:12:50,873 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:12:50,873 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:12:50,875 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:12:50,875 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:13:00,850 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:13:00,850 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:13:00,852 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:13:00,853 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:16:45,812 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:16:45,812 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:16:45,813 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:16:45,814 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:17:33,309 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:17:33,309 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:17:33,311 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:17:33,311 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:17:39,343 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:17:39,343 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:17:39,345 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:17:39,345 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:18:45,980 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:18:45,980 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:18:45,982 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:18:45,982 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:18:57,913 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:18:57,913 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:18:57,915 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:18:57,915 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:19:00,063 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:19:00,063 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:19:00,065 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:19:00,066 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:20:32,005 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:20:32,006 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:20:32,007 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:20:32,008 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:20:35,514 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:20:35,514 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:20:35,516 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:20:35,516 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:20:39,790 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:20:39,790 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:20:39,792 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:20:39,793 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:20:43,257 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:20:43,257 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:20:43,259 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:20:43,259 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:20:45,793 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:20:45,793 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:20:45,794 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:20:45,795 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:21:30,881 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:21:30,881 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:21:30,883 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:21:30,883 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:21:37,100 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:21:37,100 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:21:37,101 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:21:37,101 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:21:43,664 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:21:43,664 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:21:43,666 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:21:43,666 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:21:59,316 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:21:59,316 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:21:59,318 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:21:59,318 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:23:21,287 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:23:21,287 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:23:21,288 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:23:21,289 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:23:32,295 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:23:32,295 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:23:32,296 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:23:32,296 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:23:38,549 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:23:38,550 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:23:38,551 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:23:38,552 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:25:48,060 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:25:48,060 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:25:48,061 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:25:48,062 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:25:50,835 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:25:50,835 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:25:50,837 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:25:50,837 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:25:54,289 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:25:54,289 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:25:54,290 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:25:54,291 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:26:13,809 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:26:13,809 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:26:13,811 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:26:13,811 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:26:17,035 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:26:17,035 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:26:17,037 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:26:17,038 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:26:24,109 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:26:24,109 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:26:24,111 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:26:24,111 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:27:46,069 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:27:46,069 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:27:46,071 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:27:46,071 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:27:51,948 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:27:51,949 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:27:51,950 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:27:51,950 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:28:00,087 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:00,087 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:28:00,089 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:00,089 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:28:10,071 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:10,072 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:28:10,072 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:10,072 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:28:15,249 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:15,249 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:28:15,250 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:15,250 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:28:18,540 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:18,540 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:28:18,541 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:18,541 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:28:26,589 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:26,590 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:28:26,592 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:26,592 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:28:37,488 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:37,488 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:28:37,490 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:37,490 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:28:40,643 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:40,644 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:28:40,645 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:40,645 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:28:43,134 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:43,134 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:28:43,136 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:28:43,136 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:30:07,836 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:30:07,836 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:30:07,837 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:30:07,837 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:30:19,475 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:30:19,475 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:30:19,477 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:30:19,478 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:30:25,435 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:30:25,435 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:30:25,437 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:30:25,437 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:31:57,208 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:31:57,208 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:31:57,209 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:31:57,209 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:32:05,244 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:32:05,244 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:32:05,246 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:32:05,246 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:32:08,765 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:32:08,765 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:32:08,766 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:32:08,766 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:33:32,328 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:33:32,328 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:33:32,329 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:33:32,329 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:35:58,399 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:35:58,399 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:35:58,401 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:35:58,401 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:36:28,183 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:36:28,183 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:36:28,184 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:36:28,184 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:36:57,270 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:36:57,271 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:36:57,273 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:36:57,273 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:37:03,801 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:37:03,801 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:37:03,803 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:37:03,803 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:38:01,136 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:38:01,136 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:38:01,138 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:38:01,138 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:43:09,234 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:43:09,234 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:43:09,236 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:43:09,236 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:43:24,553 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:43:24,553 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:43:24,554 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:43:24,555 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:45:54,068 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:45:54,068 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:45:54,070 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:45:54,070 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:46:25,592 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:46:25,592 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:46:25,593 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:46:25,593 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:46:59,524 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:46:59,525 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:46:59,526 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:46:59,526 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:47:19,701 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:47:19,701 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:47:19,703 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:47:19,703 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:47:24,186 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:47:24,186 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:47:24,188 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:47:24,188 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:47:33,232 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:47:33,232 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:47:33,233 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:47:33,233 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:48:04,598 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:48:04,599 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:48:04,600 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:48:04,600 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:48:09,325 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:48:09,325 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:48:09,327 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:48:09,327 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:49:08,399 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:49:08,399 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:49:08,401 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:49:08,402 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:49:51,271 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:49:51,271 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:49:51,273 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:49:51,273 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:49:59,862 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:49:59,862 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:49:59,864 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:49:59,864 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:50:10,782 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:50:10,782 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:50:10,783 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:50:10,783 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:50:28,813 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:50:28,813 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:50:28,815 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:50:28,815 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:50:49,805 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:50:49,806 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:50:49,807 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:50:49,808 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:52:38,817 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:52:38,817 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:52:38,818 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:52:38,818 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:52:45,933 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:52:45,933 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:52:45,934 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:52:45,935 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:52:50,327 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:52:50,327 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:52:50,328 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:52:50,328 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:52:55,491 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:52:55,491 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:52:55,492 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:52:55,493 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:53:22,518 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:53:22,518 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:53:22,520 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:53:22,520 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:53:28,545 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:53:28,545 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:53:28,547 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:53:28,547 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:55:20,939 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:20,939 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:55:20,941 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:20,941 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:55:28,465 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:28,465 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:55:28,466 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:28,466 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:55:31,374 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:31,374 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:55:31,375 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:31,375 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:55:35,938 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:35,938 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:55:35,939 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:35,939 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:55:44,503 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:44,503 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:55:44,504 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:44,504 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:55:57,938 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:57,938 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:55:57,939 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:55:57,939 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:56:14,481 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:14,481 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:56:14,482 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:14,482 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:56:20,520 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:20,520 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:56:20,522 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:20,522 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:56:30,039 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:30,039 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:56:30,041 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:30,041 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:56:35,975 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:35,975 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:56:35,977 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:35,977 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:56:40,645 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:40,645 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:56:40,646 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:40,646 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:56:48,598 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:48,598 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:56:48,599 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:48,599 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:56:55,108 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:55,108 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:56:55,109 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:56:55,109 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:57:02,094 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:02,094 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:57:02,096 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:02,096 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:57:07,124 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:07,125 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:57:07,126 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:07,126 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:57:21,633 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:21,633 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:57:21,634 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:21,634 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:57:38,618 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:38,619 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:57:38,620 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:38,620 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:57:48,174 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:48,174 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:57:48,175 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:48,175 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:57:55,096 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:55,096 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:57:55,097 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:57:55,098 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:58:02,666 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:58:02,666 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:58:02,668 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:58:02,668 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:58:11,205 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:58:11,206 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:58:11,207 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:58:11,207 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:58:29,234 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:58:29,234 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:58:29,235 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:58:29,236 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:59:01,756 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:59:01,757 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:59:01,758 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:59:01,759 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:59:05,212 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:59:05,212 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:59:05,231 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:59:05,231 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:59:14,762 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:59:14,762 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:59:14,763 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:59:14,763 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:59:34,532 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:59:34,532 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:59:34,533 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:59:34,534 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 10:59:49,819 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:59:49,819 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 10:59:49,821 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 10:59:49,821 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:00:02,541 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:02,541 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:00:02,543 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:02,543 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:00:10,264 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:10,264 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:00:10,285 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:10,285 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:00:27,259 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:27,259 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:00:27,261 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:27,261 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:00:33,440 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:33,440 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:00:33,442 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:33,442 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:00:38,939 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:38,939 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:00:38,940 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:38,940 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:00:54,236 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:54,236 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:00:54,237 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:00:54,238 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:01:00,804 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:01:00,804 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:01:00,805 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:01:00,805 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:01:58,043 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:01:58,043 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:01:58,044 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:01:58,044 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:02:07,070 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:02:07,070 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:02:07,071 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:02:07,071 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:02:13,336 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:02:13,336 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:02:13,354 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:02:13,354 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:03:37,858 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:03:37,858 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:03:37,859 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:03:37,860 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:03:50,326 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:03:50,326 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:03:50,328 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:03:50,328 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:07:46,297 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:07:46,298 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:07:46,299 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:07:46,299 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:08:31,502 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:08:31,502 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:08:31,504 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:08:31,504 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:08:41,526 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:08:41,526 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:08:41,528 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:08:41,528 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:11:04,788 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:11:04,788 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:11:04,789 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:11:04,789 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:33:08,734 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:33:08,734 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:33:08,737 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:33:08,737 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:33:25,404 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:33:25,404 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:33:25,406 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:33:25,406 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:33:58,127 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:33:58,127 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:33:58,129 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:33:58,129 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:34:11,470 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:34:11,470 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:34:11,471 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:34:11,471 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:34:15,946 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:34:15,946 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:34:15,949 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:34:15,949 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:35:29,009 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:35:29,009 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:35:29,011 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:35:29,011 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:35:31,995 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:35:31,996 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:35:31,998 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:35:31,998 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:35:36,002 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:35:36,002 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:35:36,004 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:35:36,004 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:35:55,095 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:35:55,095 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:35:55,097 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:35:55,098 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:36:01,544 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:36:01,544 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:36:01,545 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:36:01,545 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:36:12,107 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:36:12,107 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:36:12,108 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:36:12,108 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:36:23,969 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:36:23,969 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:36:23,970 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:36:23,970 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:37:36,242 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:37:36,242 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:37:36,243 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:37:36,243 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:37:43,667 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:37:43,667 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:37:43,669 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:37:43,669 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:37:45,682 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:37:45,682 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:37:45,684 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:37:45,684 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:39:17,366 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:17,366 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:39:17,367 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:17,367 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:39:27,396 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:27,396 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:39:27,397 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:27,397 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:39:29,866 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:29,866 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:39:29,867 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:29,867 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:39:38,311 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:38,311 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:39:38,312 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:38,312 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:39:47,956 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:47,956 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:39:47,958 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:47,958 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:39:51,924 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:51,924 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:39:51,925 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:51,925 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:39:59,968 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:59,968 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:39:59,970 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:39:59,970 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:42:04,756 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:42:04,756 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:42:04,757 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:42:04,757 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:42:29,245 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:42:29,245 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:42:29,246 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:42:29,246 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:42:30,389 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:42:30,389 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:42:30,390 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:42:30,390 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:42:32,734 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:42:32,735 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:42:32,737 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:42:32,737 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:43:11,764 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:43:11,764 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:43:11,766 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:43:11,766 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:43:52,122 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:43:52,122 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:43:52,123 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:43:52,123 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:44:00,863 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:44:00,863 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:44:00,865 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:44:00,865 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:44:49,383 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:44:49,384 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:44:49,385 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:44:49,385 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:44:57,258 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:44:57,258 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:44:57,260 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:44:57,260 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:45:32,946 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:45:32,946 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:45:32,947 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:45:32,947 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:45:46,550 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:45:46,550 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:45:46,551 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:45:46,551 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:45:59,385 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:45:59,385 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:45:59,387 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:45:59,387 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:48:07,626 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:48:07,626 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:48:07,628 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:48:07,628 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:48:40,250 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:48:40,250 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:48:40,252 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:48:40,252 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:48:43,686 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:48:43,687 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:48:43,688 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:48:43,688 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:50:02,184 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:50:02,184 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:50:02,186 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:50:02,186 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:51:24,356 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:51:24,356 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:51:24,357 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:51:24,357 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 11:52:12,267 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:52:12,267 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 11:52:12,269 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 11:52:12,269 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 12:00:28,381 [Worker-100: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dev.arsystem:JavaTest:0.0.1-SNAPSHOT @ /opt/Development2/Cursos/CursoTestJava/JavaTest/pom.xml.
+2023-01-09 12:00:29,068 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:00:29,068 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 12:00:29,073 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:00:29,073 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 12:00:31,024 [Worker-99: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/4.11.0/mockito-core-4.11.0-sources.jar
+2023-01-09 12:00:31,035 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:00:31,036 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 12:00:31,038 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:00:31,039 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 12:00:31,811 [Worker-99: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/4.11.0/mockito-core-4.11.0-sources.jar
+2023-01-09 12:00:31,900 [Worker-99: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-core:4.11.0
+2023-01-09 12:00:32,319 [Worker-99: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.19/byte-buddy-1.12.19-sources.jar
+2023-01-09 12:00:32,834 [Worker-99: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.19/byte-buddy-1.12.19-sources.jar
+2023-01-09 12:00:32,932 [Worker-99: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.12.19
+2023-01-09 12:00:33,389 [Worker-99: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.19/byte-buddy-agent-1.12.19-sources.jar
+2023-01-09 12:00:33,740 [Worker-99: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.19/byte-buddy-agent-1.12.19-sources.jar
+2023-01-09 12:00:33,784 [Worker-99: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy-agent:1.12.19
+2023-01-09 12:00:34,171 [Worker-99: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.3/objenesis-3.3-sources.jar
+2023-01-09 12:00:34,420 [Worker-99: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.3/objenesis-3.3-sources.jar
+2023-01-09 12:00:34,480 [Worker-99: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.objenesis:objenesis:3.3
+2023-01-09 12:00:34,641 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:00:34,641 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 12:00:34,643 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:00:34,643 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 12:00:46,542 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:00:46,542 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 12:00:46,544 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:00:46,545 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 12:00:52,814 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:00:52,814 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 12:00:52,817 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:00:52,817 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 12:00:58,966 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-09 12:00:59,441 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dev.arsystem:JavaTest:0.0.1-SNAPSHOT @ /opt/Development2/Cursos/CursoTestJava/JavaTest/pom.xml.
+2023-01-09 12:00:59,754 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest/src/main/java
+2023-01-09 12:00:59,755 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaTest/src/test/java
+2023-01-09 12:00:59,894 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-01-09 12:01:00,217 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:01:00,217 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 12:01:00,221 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:01:00,222 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 12:01:15,645 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:01:15,645 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 12:01:15,647 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 12:01:15,648 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:00:07,291 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:07,291 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:00:07,293 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:07,293 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:00:16,292 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:16,292 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:00:16,294 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:16,294 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:00:20,248 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:20,248 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:00:20,251 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:20,251 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:00:29,455 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:29,455 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:00:29,458 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:29,458 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:00:30,982 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:30,982 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:00:30,985 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:30,985 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:00:34,247 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:34,247 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:00:34,250 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:34,250 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:00:43,408 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:43,409 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:00:43,410 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:00:43,410 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:01:06,730 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:01:06,730 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:01:06,734 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:01:06,734 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:01:18,780 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:01:18,780 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:01:18,782 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:01:18,783 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:01:32,373 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:01:32,373 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:01:32,376 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:01:32,376 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:09:23,438 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:09:23,439 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:09:23,442 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:09:23,442 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:14:41,300 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:14:41,300 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:14:41,303 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:14:41,303 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:17:25,422 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:17:25,422 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:17:25,424 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:17:25,424 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:17:36,860 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:17:36,860 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:17:36,863 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:17:36,863 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:18:03,782 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:18:03,782 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:18:03,784 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:18:03,785 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:18:14,404 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:18:14,404 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:18:14,409 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:18:14,409 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:18:25,088 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:18:25,088 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:18:25,090 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:18:25,091 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:20:45,421 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:20:45,421 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:20:45,423 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:20:45,423 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:20:49,096 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:20:49,096 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:20:49,098 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:20:49,098 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:20:50,572 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:20:50,572 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:20:50,575 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:20:50,575 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:21:02,253 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:21:02,253 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:21:02,255 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:21:02,255 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:21:11,848 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:21:11,848 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:21:11,850 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:21:11,850 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:21:22,677 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:21:22,677 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:21:22,679 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:21:22,679 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:21:25,220 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:21:25,220 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:21:25,223 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:21:25,223 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:22:01,423 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:22:01,424 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:22:01,426 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:22:01,426 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:25:24,338 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:25:24,338 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:25:24,340 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:25:24,340 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:26:02,273 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:26:02,273 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:26:02,275 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:26:02,275 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:26:11,777 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:26:11,777 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:26:11,780 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:26:11,780 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:26:35,344 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:26:35,345 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:26:35,347 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:26:35,347 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:28:44,817 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:28:44,817 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:28:44,819 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:28:44,820 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:28:52,786 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:28:52,787 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:28:52,789 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:28:52,789 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:30:16,091 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:30:16,091 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:30:16,093 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:30:16,093 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:30:43,521 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:30:43,522 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:30:43,524 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:30:43,524 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:31:53,249 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:31:53,249 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:31:53,251 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:31:53,251 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:34:16,329 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:34:16,329 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:34:16,331 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:34:16,331 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:45:53,585 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:45:53,586 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:45:53,588 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:45:53,589 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:48:30,519 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:48:30,519 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:48:30,521 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:48:30,521 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:50:06,394 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:50:06,394 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:50:06,396 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:50:06,396 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources
+2023-01-09 13:50:09,803 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:50:09,803 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/main/resources
+2023-01-09 13:50:09,804 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-09 13:50:09,804 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /opt/Development2/Cursos/CursoTestJava/JavaTest/src/test/resources

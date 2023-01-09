@@ -1,0 +1,16 @@
+package dev.arsystem.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import dev.arsystem.enums.SecurityLevel;
+import dev.arsystem.util.PasswordUtil;
+
+public class SecurityTest {
+	
+	@Test
+	public void weak_when_than_less_8_letters() {
+		assertEquals(SecurityLevel.LOW, PasswordUtil.access("1234567"));
+	}
+}

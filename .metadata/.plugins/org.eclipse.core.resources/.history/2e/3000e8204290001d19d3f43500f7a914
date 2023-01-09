@@ -1,0 +1,19 @@
+package dev.arsystem.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import dev.arsystem.player.Dice;
+import dev.arsystem.player.Player;
+
+public class PlayerTest {
+
+	@Test
+	public void loose_when_minor_number() {
+		Dice dice = new Dice(6);
+		Player player = new Player(dice, 2);
+		
+		
+	}
+}

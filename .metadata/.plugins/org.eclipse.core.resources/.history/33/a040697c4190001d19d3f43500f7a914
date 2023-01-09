@@ -1,0 +1,10 @@
+package dev.arsystem.player;
+
+public class Player {
+	
+	private Dice dice;
+	
+	public boolean play() {
+		return false;
+	}
+}

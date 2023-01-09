@@ -1,0 +1,14 @@
+package dev.arsystem.player;
+
+public class Player {
+	
+	public Player(Dice dice, int minToWin) {
+		
+	}
+	
+	public boolean play() {
+		return false;
+	}
+	
+	private Dice dice;
+}

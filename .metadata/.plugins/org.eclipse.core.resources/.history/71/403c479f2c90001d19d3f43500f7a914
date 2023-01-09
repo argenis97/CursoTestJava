@@ -1,0 +1,26 @@
+package dev.arsystem.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import dev.arsystem.enums.SecurityLevel;
+import dev.arsystem.util.PasswordUtil;
+
+public class SecurityTest {
+	
+	@Test
+	public void low_when_than_less_8_letters() {
+		assertEquals(SecurityLevel.LOW, PasswordUtil.access("1234567"));
+	}
+	
+	@Test
+	public void low_when_only_letters() {
+		assertEquals(SecurityLevel.LOW, PasswordUtil.access("abcdef"));
+	}
+	
+	@Test
+	public void medium_when_has_letters_and_numbers() {
+		assertEquals(SecurityLevel.MEDIUM, PasswordUtil.access("Babc123456"));
+	}
+}

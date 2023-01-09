@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+/opt/Development2/Cursos/CursoTestJava/.metadata/.plugins/org.eclipse.jdt.core
+251494055.index
+1279653007.index
+3453502656.index
+2884671683.index
+1270517090.index
+592863982.index
+1865797976.index
+646308851.index

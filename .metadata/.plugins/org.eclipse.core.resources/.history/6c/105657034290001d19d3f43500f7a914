@@ -1,0 +1,13 @@
+package dev.arsystem.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class PlayerTest {
+
+	@Test
+	public void loose_when_minor_number() {
+		
+	}
+}

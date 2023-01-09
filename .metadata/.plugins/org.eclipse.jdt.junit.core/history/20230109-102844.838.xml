@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SecurityTest" project="JavaTest" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="dev.arsystem.test.SecurityTest" time="0.002">
+    <testcase name="medium_when_has_letters_and_numbers" classname="dev.arsystem.test.SecurityTest" time="0.001"/>
+    <testcase name="low_when_than_less_8_letters" classname="dev.arsystem.test.SecurityTest" time="0.0"/>
+    <testcase name="low_when_only_letters" classname="dev.arsystem.test.SecurityTest" time="0.0"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,5 @@
+package dev.arsystem.util;
+
+public class PasswordUtil {
+
+}

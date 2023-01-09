@@ -1,0 +1,16 @@
+package dev.arsystem.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import dev.arsystem.enums.SecurityLevel;
+import dev.arsystem.util.PasswordUtil;
+
+public class SecurityTest {
+	
+	@Test
+	public void test() {
+		assertEquals(SecurityLevel.HIGHT, PasswordUtil.access("1234"));
+	}
+}

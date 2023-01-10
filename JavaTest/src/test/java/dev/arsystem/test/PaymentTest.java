@@ -4,6 +4,7 @@ import static org.junit.Assert.*;
 
 import java.math.BigDecimal;
 
+import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
 
@@ -14,11 +15,14 @@ import dev.arsystem.payment.PaymentResponse;
 
 public class PaymentTest {
 	
+	@Before
+	public void setup() {
+		gateWay = Mockito.mock(PaymentGateway.class);
+		processor = new PaymentProcessor(gateWay);
+	}
+	
 	@Test
 	public void payment_is_correct() {
-		PaymentGateway gateWay = Mockito.mock(PaymentGateway.class);
-		PaymentProcessor processor = new PaymentProcessor(gateWay);
-		
 		Mockito.when(gateWay.requestPayment(Mockito.any()))
 			.thenReturn(new PaymentResponse(PaymentStatus.OK));
 		
@@ -27,12 +31,12 @@ public class PaymentTest {
 	
 	@Test
 	public void payment_is_wrong() {
-		PaymentGateway gateWay = Mockito.mock(PaymentGateway.class);
-		PaymentProcessor processor = new PaymentProcessor(gateWay);
-		
 		Mockito.when(gateWay.requestPayment(Mockito.any()))
 			.thenReturn(new PaymentResponse(PaymentStatus.ERROR));
 		
 		assertFalse(processor.makePayment(new BigDecimal(200)));
 	}
+	
+	private PaymentGateway gateWay;
+	private PaymentProcessor processor;
 }

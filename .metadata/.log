@@ -4744,3 +4744,6 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334)
 	at org.eclipse.jdt.internal.core.JavaElement.getURLContents(JavaElement.java:874)
 	... 9 more
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-01-16 11:19:49.285
+!MESSAGE The workspace will exit with unsaved changes in this session.

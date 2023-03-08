@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
     <typeInfo handle="=JavaTest/\/usr\/lib\/jvm\/java-11-openjdk-amd64\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.security(KeyPair.class[KeyPair" modifiers="49" timestamp="1666690251000"/>
+    <typeInfo handle="=JavaTest/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;dev.arsystem.movies.data{MovieRepositoryJdbc.java[MovieRepositoryJdbc" modifiers="1" timestamp="1673872417797"/>
 </typeInfoHistroy>
